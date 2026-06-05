@@ -1,0 +1,5 @@
+Dataset,Months,Start,End
+Training,33,2014-01,2016-09
+Validation,7,2016-10,2017-04
+Testing,8,2017-05,2017-12
+Total,48,2014-01,2017-12
